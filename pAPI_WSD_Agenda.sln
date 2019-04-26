@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pAPI_WSD_Agenda", "pAPI_WSD_Agenda\pAPI_WSD_Agenda.csproj", "{C2271E96-AC47-47E2-A1FF-496188EC62A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2271E96-AC47-47E2-A1FF-496188EC62A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2271E96-AC47-47E2-A1FF-496188EC62A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2271E96-AC47-47E2-A1FF-496188EC62A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2271E96-AC47-47E2-A1FF-496188EC62A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		        SolutionGuid = {50D4F155-DD3C-4FDD-A137-69273034E46F}
+		SolutionGuid = {A6EB91A6-92EC-41C8-A9B7-94BA34146B9E}
+	EndGlobalSection
+EndGlobal

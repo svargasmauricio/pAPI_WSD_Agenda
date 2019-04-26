@@ -1,0 +1,44 @@
+-----------LOG API  15/03/19 09:48:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+[
+  {
+    "companyName": "NUVEMSIS PARTICIPAÇÕES LTDA",
+    "cnpj": "13998916000124",
+    "ie": "142851418117",
+    "email": "centraldecompras@marketup.com",
+    "phone": "(11) 2501-6967",
+    "contactFirstName": "Moisés",
+    "contactLastName": "Silva",
+    "contactCpf": "36119098070",
+    "billingAddress": {
+      "street": "Av. Angélica",
+      "number": "2529",
+      "complement": "7º Andar - Sala 111",
+      "quarter": "Cerqueira César",
+      "zipcode": "01227200",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil"
+    },
+    "deliveryAddresses": [
+      {
+        "receiverName": "Eduardo Coutinho",
+        "street": "Av. Angélica",
+        "number": "2529",
+        "complement": "7º Andar - Sala 111",
+        "quarter": "Cerqueira César",
+        "zipcode": "01227200",
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "Brasil"
+      }
+    ]
+  }
+]
+--------------------------------*End*------------------------------------------
+
+
+
