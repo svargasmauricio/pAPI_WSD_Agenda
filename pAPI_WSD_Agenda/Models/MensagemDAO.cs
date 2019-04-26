@@ -30,7 +30,8 @@ namespace pAPI_WSD_Agenda.Models
             comando.Parameters.Clear();
             comando.CommandText = cSQL;
 
-            comando.Parameters.Add("ID", MySqlDbType.Decimal).Value = mensagem.id;
+            //comando.Parameters.Add("ID", MySqlDbType.Decimal).Value = mensagem.id;
+            comando.Parameters.Add("USUARIO", MySqlDbType.VarChar).Value = mensagem.usuario;
             comando.Parameters.Add("NOME", MySqlDbType.VarChar).Value = mensagem.nome;
             comando.Parameters.Add("SOBRENOME", MySqlDbType.VarChar).Value = mensagem.sobrenome;
             comando.Parameters.Add("EMAIL", MySqlDbType.VarChar).Value = mensagem.email;
